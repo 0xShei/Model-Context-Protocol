@@ -1,1 +1,1 @@
-# gpt-mcp
+# Model-Context-Protocol
